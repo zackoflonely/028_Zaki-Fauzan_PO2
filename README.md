@@ -6,9 +6,9 @@ Ini adalah tampilan untuk login user.
 Ini halaman untuk user yang ingin mendaftar akunnya, karena jika belum terdaftar tidak bisa lanjut ke halaman menu.
 ![image](https://user-images.githubusercontent.com/106313158/227732083-5c49658d-4794-4812-bf4c-8bb0391b7dda.png)
 Ini merupakan tampilan array dari akun yang didaftarkan pada halaman sign up.
-![image](https://user-images.githubusercontent.com/106313158/227732099-ce62a049-3cf6-4dc5-aadb-149c56022f82.png)
-Ini merupakan sapaan selamat datang dengan ditambah nama pengguna yang didaftarkan.
 ![image](https://user-images.githubusercontent.com/106313158/227732118-65f9b8b8-fd74-4c1d-a285-0af7329fa1f2.png)
+Ini merupakan sapaan selamat datang dengan ditambah nama pengguna yang didaftarkan.
+![image](https://user-images.githubusercontent.com/106313158/227732099-ce62a049-3cf6-4dc5-aadb-149c56022f82.png)
 Ini merupakan array dari form.
 ![image](https://user-images.githubusercontent.com/106313158/227732139-ddf1a94d-b6b5-47d8-8c9c-d379a11ad424.png)
 Disini data array berasal.
