@@ -1,5 +1,10 @@
 # 028_Zaki-Fauzan_PO2
-Tema : CoffeeShop
+NIM   : 028
+Nama  : Zaki Fauzan Rabbani
+Kelas : A2
+Tema  : CoffeeShop
+
+
 ![image](https://user-images.githubusercontent.com/106313158/227732043-26c93db6-8256-4faa-9cb3-c4ba809036a5.png)
 Ini adalah tampilan untuk login user.
 ![image](https://user-images.githubusercontent.com/106313158/227732049-5bbe367e-6fae-4f36-a8ea-ebaa18f681e2.png)
@@ -15,3 +20,5 @@ Disini data array berasal.
 ![image](https://user-images.githubusercontent.com/106313158/227732145-ddcf8b4d-c185-4295-831f-a8dfdcecf2c1.png)
 Data pada array tersebut kemudian akan ditampilkan pada halaman profile.
 
+Untuk menjelajahi lebih lanjut silakan ke https://zackoflonely.github.io/028_Zaki-Fauzan_PO2/
+Mohon maaf atas kekurangan dan kesalahan yang saya lakukan.
