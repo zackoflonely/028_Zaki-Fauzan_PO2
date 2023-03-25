@@ -1,11 +1,7 @@
 # 028_Zaki-Fauzan_PO2
-<br>
 NIM   : 028
-<br>
 Nama  : Zaki Fauzan Rabbani
-<br>
 Kelas : A2
-<br>
 Tema  : CoffeeShop
 ![image](https://user-images.githubusercontent.com/106313158/227732043-26c93db6-8256-4faa-9cb3-c4ba809036a5.png)
 Ini adalah tampilan untuk login user.
