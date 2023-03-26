@@ -12,9 +12,9 @@ login.addEventListener("submit",function(e){
             window.location.href="home.html";
             break;
         }
-        else{
-            alert("Akun belum terdaftar")
-        }
     };
-
+    if(data.find(item=>item.user===nama.value)){
+    }else{
+        alert("Akun belum terdaftar")
+    }
 })
